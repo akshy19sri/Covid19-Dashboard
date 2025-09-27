@@ -3,7 +3,7 @@
 
 This project presents an interactive COVID-19 Analysis Dashboard designed to visualize key pandemic metrics using real-time data. The dashboard provides users with clear insights into the number of confirmed cases, active cases, recoveries, deaths, and new cases across global regions and countries. Built in Power BI, it leverages multi-source data, robust calculations, and intuitive charts (such as line graphs, bar graphs, and pie charts) to enable both summary-level and detailed views. Important features include region-wise analysis, 1-week percent increase tracking, and comparative metrics like deaths and recoveries per 100 cases, all tailored to reveal pandemic trends.
 
-2.Challenges Faced
+2.Challenges Faced:
 
 - Integrating and cleaning frequently updated, heterogeneous data from global sources proved difficult, with issues related to missing values, inconsistent reporting formats, and anomalies like sudden spikes or drops.
 
@@ -40,3 +40,6 @@ This project presents an interactive COVID-19 Analysis Dashboard designed to vis
 - Real-time, multi-dimensional analytics were achieved using dynamic data integration, showing adaptability to changing reporting needs and data scenarios.
 
 - Ideal for deploying in professional settings or as a standout display piece in a data analyst portfolio.
+
+6.Screenshot:
+https://github.com/akshy19sri/Covid19-Dashboard/blob/main/Snapshot%20of%20Covid19%20Dashboard.png
